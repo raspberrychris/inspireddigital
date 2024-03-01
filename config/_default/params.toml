@@ -11,7 +11,7 @@ logo_webp = true
 # logo text will only show when logo is missing.
 logo_text = "Copper"
 # purgeCSS
-purge_css = true
+# purge_css = true
  
 # Main Sections
 mainSections = ["blog"]
