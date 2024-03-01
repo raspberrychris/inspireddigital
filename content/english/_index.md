@@ -2,28 +2,27 @@
 ############################ Banner ##################################
 banner:
   enable : true
-  title : "Give Your customers human feeling touch **Like Never Before**"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seddiam nonumy eirmod tempor invidunt ut labore et dolore magna"
+  title : "Want to do SEO? <P> **Get Inspired** 📈"
   image : "images/screenshots/banner-shot.png"
   video:
-    enable : true
+    enable : false
     video_embed_link : "https://www.youtube.com/embed/dyZcRRWiuuw"
   form:
-    enable : true
+    enable : false
     form_acttion : "#"
-    button_label : "Request Demo"
+    button_label : "Get quote"
   button:
     enable : true
-    icon : "images/brands/google.png"
-    label : "Sign Up With Google"
-    link : "#"
-    content : "No credit card required. Available on [Mac](), [Windows](), [iOS](), & [Android]()"
+    icon : "#"
+    label : "Sign Up 🚀"
+    link : "https://dashboard.inspired.digital/register"
+    content : "Track keywords, backlinks, research your competitors, create SEO reports, do keyword research, order content and more..."
 
 
 
 ########################## Clients Logo Slider #########################
 clients_logo_slider:
-  enable : true
+  enable : false
   logos:
   - "images/brands/01-colored.png"
   - "images/brands/02-colored.png"
@@ -41,17 +40,17 @@ clients_logo_slider:
 
 ########################## How it works #########################
 homepage_tab:
-  enable : true
-  title : "How **it Works**"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
+  enable : false
+  title : "What **we do**"
+  content : "We provide an affordable SEO platform that allows you to take control of your organic rankings and we're also there to help if you need us."
   tablist:
   # tab item
-  - name : "Task Management"
-    title : "Task **Management**"
+  - name : "Do Keyword Research"
+    title : "Do **Keyword Research**"
     image : "images/screenshots/how-it-works-1.jpg"
     content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
     button:
-      enable : true
+      enable : false
       label : "View More"
       link : "how-it-works"
       
@@ -61,7 +60,7 @@ homepage_tab:
     image : "images/screenshots/03.png"
     content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
     button:
-      enable : true
+      enable : false
       label : "View More"
       link : "how-it-works"
       
@@ -71,7 +70,7 @@ homepage_tab:
     image : "images/screenshots/04.png"
     content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
     button:
-      enable : true
+      enable : false
       label : "View More"
       link : "how-it-works"
       
@@ -81,14 +80,14 @@ homepage_tab:
     image : "images/screenshots/how-it-works-1.jpg"
     content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
     button:
-      enable : true
+      enable : false
       label : "View More"
       link : "how-it-works"
 
 
 ############################## Tools in Use ########################
 tools:
-  enable : true
+  enable : false
   title : "Integrate the **tools you already use**"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
   logos:
@@ -106,8 +105,8 @@ tools:
 
 ############################## Achivement ##############################
 achivement:
-  enable : true
-  title : "Average yearly growth rate **across our clients We able to achive**"
+  enable : false
+  title : "Avrage yearly growth rate **across our clients We able to achive**"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et"
   funfacts:
   - name : "Years Of <br> Experience"
@@ -138,7 +137,7 @@ achivement:
 
 ############################## Workflow ################################
 workflow:
-  enable : true
+  enable : false
   title : "Create an automated **workflow by setting**"
   image : "images/screenshots/03.png"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
@@ -146,7 +145,7 @@ workflow:
 
 ############################## about us ################################
 about_us:
-  enable : true
+  enable : false
   title : "Who Are We And **What Is Our Identity?**"
   image : "images/about/01.jpg"
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores"
@@ -159,11 +158,11 @@ about_us:
 
 ############################# Testimonial ############################
 testimonial:
-  enable : true
+  enable : false
   title : "What Our **Client says**"
   content : "Lorem ipsum sadip dolor sit amet, consetetur sadip scing elitr, diam nonumy eirmod tempor invi duntut labore et dolore magna aliquyam erat, sed diam"
   button:
-    enable : true
+    enable : false
     label : "View All Testimonials"
     link : "testimonial"
 
