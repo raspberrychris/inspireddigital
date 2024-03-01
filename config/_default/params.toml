@@ -9,7 +9,7 @@ logo_width = "152px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Copper"
+logo_text = "Inspired"
 # purgeCSS
 # purge_css = true
  
@@ -18,7 +18,7 @@ mainSections = ["blog"]
 # image gallery shortcode
 image_gallery = true
 # contact form action
-contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
+contact_form_action = "https://formspree.io/f/xleqbjyw" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
@@ -32,26 +32,26 @@ copyright = "Copyright by your company" # also change copyright in language.toml
 
 # Preloader
 [preloader]
-enable = false
+enable = true
 preloader = "images/preloader.png" # use jpg, png, svg or gif format.
 greetings = "Welcome to"
-greetings_to = "Copper"
+greetings_to = "Inspired Digital"
 
 # Navigation button
 [navigation_button_bordered]
 enable = true
 label = "Sign Up"
-link = ""
+link = "https://dashboard.inspired.digital/register"
 
 # Navigation button
 [navigation_button_linked]
 enable = true
 label = "Log In"
-link = ""
+link = "https://dashboard.inspired.digital"
 
 # Subscription
 [subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name =  "b_463ee871f45d2d93748e77cad_a0a2c6d074"                                                           # replace this code with yours
@@ -59,7 +59,7 @@ mailchimp_form_name =  "b_463ee871f45d2d93748e77cad_a0a2c6d074"                 
 # Crisp Chat
 [crisp_chat]
 enable = false
-crisp_website_id = "9aa449e1-9999-422a-938f-8567982eec6d" # replace this code with yours
+crisp_website_id = "a7188d64-d47c-41a4-b82f-fb53a2bc3562" # replace this code with yours
 # Check this video tutorial to get your crisp website ID - https://www.youtube.com/watch?v=nW5UX6iVdFc
 
 # Valine Comment
@@ -108,11 +108,11 @@ username = ""  # your username
 # Footer call to action
 [footer_call_to_action]
 enable = true
-title = "Join 75,000+ growing business That **Use Copper To Their Brand**"
+title = "Join growing businesses That **Use Inspired**"
 [footer_cta_button]
 enable = true
-label = "Get Started With Us"
-link = "contact"
+label = "Get Started"
+link = "https://dashboard.inspired.digital/register"
 
 # site verifications
 [site_verification]
@@ -136,7 +136,7 @@ icon = "fab fa-facebook" # fontawesome icon pack : https://fontawesome.com/icons
 link = "#" 
 
 [[social]]
-title = "twitter"
+title = "X"
 icon = "fab fa-twitter" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "#" 
 
