@@ -1,9 +1,9 @@
 ---
 title : "Blog"
-description : "this is meta description"
+description : "Inspired Digital's Blog"
 draft : false
 ---
 
-## Find A **Source Of Knowledge**
+## Read our **latest blog articles**
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+Check out our latest blog articles below.
