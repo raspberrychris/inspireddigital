@@ -23,7 +23,7 @@
   translation: Company Website
   
 - id: message
-  translation: Email
+  translation: Anything else?
   
 - id: submit
   translation: Submit Now
