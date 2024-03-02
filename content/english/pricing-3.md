@@ -49,8 +49,3 @@ pricing_card:
 
 ## Browse our **Pricing Plans**
 Check out our pricing plans below.
-
-<script async src="https://js.stripe.com/v3/pricing-table.js"></script>
-<stripe-pricing-table pricing-table-id="prctbl_1OpybcBOoatjHAlZhtvqPQ8A"
-publishable-key="pk_live_51MhvhpBOoatjHAlZgQIibtcEHQEVLqXDy7pAoTCT4wPTXMgvfPY9OfvC3ib76ctjvNe6mvC2mhPYyTYApH9XnFCl00oChy9rDd">
-</stripe-pricing-table>
