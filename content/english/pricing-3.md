@@ -22,23 +22,21 @@ pricing_card:
   services:
   - "Track your keywords"
   - "Google Search Console and Google Analytics integration"
-  - "Keep work in unlimited storage"
-  - "Add people document handoff."
+  - "SEO Reporting"
+  - "Competitor Analysis"
   
 # pricing table
 - name : "Business"
-  content : "Lorem ipsum dolor sit amet, confsectur justo. Massa augue neque proin adipisng."
+  content : "Everything in DIY & 3 Hours of SEO consultation per month"
   currency: "$"
-  monthly_price : "99"
-  yearly_price : "199"
+  monthly_price : "229"
+  yearly_price : "2290"
   featured : true
-  button_label : "Start Free Trial"
+  button_label : "Subscribe"
   button_link : "#"
   services:
-  - "Track Reward Part Program"
-  - "Design and prototype powerful"
-  - "Keep work in unlimited storage"
-  - "Add people document handoff."
+  - "Everything in the DIY plan"
+  - "3 Hours of SEO consultation"
   
 # pricing table
 - name : "Enterprise"
