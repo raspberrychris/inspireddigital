@@ -22,7 +22,7 @@ weight = 6
 
 [[main]]
 name = "Pricing"
-url = "pricing-3/"
+url = "pricing/"
 weight = 7
 
 
