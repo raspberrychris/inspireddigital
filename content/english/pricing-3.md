@@ -35,7 +35,7 @@ pricing_card:
   
 # pricing table
 - name : "Enterprise"
-  content : "Everything in the Business plan plus a bespoke SEO campaign"
+  content : "Everything in the DIY plan plus a bespoke SEO consultation"
   currency: "$"
   monthly_price : "Ask"
   yearly_price : "Ask"
@@ -43,7 +43,7 @@ pricing_card:
   button_label : "Contact"
   button_link : "contact"
   services:
-  - "Bespoke SEO campaign designed for your needs"
+  - "Your own bespoke SEO campaign designed for your business"
   
 ---
 
