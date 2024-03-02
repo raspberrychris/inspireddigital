@@ -44,8 +44,8 @@ pricing_table_info:
   yearly_price: ""
   monthly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
   yearly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
-  recomended: true
-  button_label : "Subscribe"
+  recomended: false
+  button_label : "Contact"
   button_link : "contact"
 
 - name: "Enterprise"
@@ -65,7 +65,7 @@ pricing_table_data:
 # table column
 - table_row:
   - name: "" # empty
-    monthly_icon: "fas fa-info-circle text-primary"
+    monthly_icon: ""
     yearly_icon: "fas fa-info-circle text-primary"
     monthly_count: ""
     yearly_count: ""

@@ -2,7 +2,7 @@
 title : "Pricing"
 description : ""
 layout : "pricing"
-offer : "Get 1 month free with an annual subscription"
+offer : "Get two months free with an annual subscription"
 # you can set only monthly, only yearly, or toggle both
 monthly_yearly_toggle: "toggle" # available value "monthly"/"yearly"/"toggle"
 draft : false
@@ -11,17 +11,17 @@ draft : false
 # pricing card
 pricing_card:
 # pricing table
-- name : "Team"
-  content : "Lorem ipsum dolor sit amet, confsectur justo. Massa augue neque proin adipisng."
+- name : "DIY"
+  content : "Everything you need to get started in SEO"
   currency: "$"
-  monthly_price : "39"
-  yearly_price : "139"
+  monthly_price : "79"
+  yearly_price : "790"
   featured : false
-  button_label : "Start Free Trial"
-  button_link : "#"
+  button_label : "Subscribe"
+  button_link : "https://dashboard.inspired.digital/register"
   services:
-  - "Track Reward Part Program"
-  - "Design and prototype powerful"
+  - "Track your keywords"
+  - "Google Search Console and Google Analytics integration"
   - "Keep work in unlimited storage"
   - "Add people document handoff."
   
