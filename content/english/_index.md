@@ -3,13 +3,13 @@
 banner:
   enable : true
   title : "Want to do SEO? <P> **Get Inspired** 📈"
-  image : "images/screenshots/banner-shot.png"
+  image : "images/screenshots/banner2.png"
   video:
     enable : false
     video_embed_link : "https://www.youtube.com/embed/dyZcRRWiuuw"
   form:
-    enable : false
-    form_acttion : "#"
+    enable : true
+    form_acttion : "https://formspree.io/f/xleqbjyw"
     button_label : "Get quote"
   button:
     enable : true
