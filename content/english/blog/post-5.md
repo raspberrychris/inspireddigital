@@ -6,7 +6,7 @@ author: "Ausie Makquis"
 author_profile: "https://linkedin.com/in/#"
 description : "this is meta description"
 categories: ["Technology"]
-draft : false
+draft : true
 ---
 
 
