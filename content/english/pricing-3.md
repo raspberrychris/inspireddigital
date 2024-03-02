@@ -4,7 +4,7 @@ description : ""
 layout : "pricing"
 offer : "Get two months free with an annual subscription"
 # you can set only monthly, only yearly, or toggle both
-monthly_yearly_toggle: "monthly" # available value "monthly"/"yearly"/"toggle"
+monthly_yearly_toggle: "toggle" # available value "monthly"/"yearly"/"toggle"
 draft : false
 
 
@@ -60,3 +60,8 @@ pricing_card:
 
 ## Browse our **Pricing Plans**
 Check out our pricing plans below.
+
+<script async src="https://js.stripe.com/v3/pricing-table.js"></script>
+<stripe-pricing-table pricing-table-id="prctbl_1OpybcBOoatjHAlZhtvqPQ8A"
+publishable-key="pk_live_51MhvhpBOoatjHAlZgQIibtcEHQEVLqXDy7pAoTCT4wPTXMgvfPY9OfvC3ib76ctjvNe6mvC2mhPYyTYApH9XnFCl00oChy9rDd">
+</stripe-pricing-table>
