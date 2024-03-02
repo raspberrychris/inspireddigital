@@ -11,8 +11,6 @@ contact_info:
   title : "Our Contact Info"
   address_list:
   - "support@inspired.digital"
-  - ""
-  - ""
 
 ############ Services ############
 services:
