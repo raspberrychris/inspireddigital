@@ -16,7 +16,7 @@ pricing_card:
   currency: "$"
   monthly_price : "79"
   yearly_price : "790"
-  featured : false
+  featured : true
   button_label : "Subscribe"
   button_link : "https://dashboard.inspired.digital/register"
   services:
