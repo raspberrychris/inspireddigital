@@ -1,5 +1,5 @@
 ---
-title : "FAQ"
+title : "FAQs"
 description : "this is meta description"
 layout : "faq"
 draft : false

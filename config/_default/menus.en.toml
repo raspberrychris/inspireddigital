@@ -28,7 +28,7 @@ weight = 7
 
 # Footer menu
 [[footer]]
-name = "Faq"
+name = "FAQs"
 url = "faq/"
 weight = 1
 
