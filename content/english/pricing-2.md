@@ -20,13 +20,13 @@ pricing_table_info:
 
 - name: "DIY"
   currency: "$"
-  monthly_price: "179"
-  yearly_price: "0"
-  monthly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
-  yearly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
+  monthly_price: "79"
+  yearly_price: "790"
+  monthly_content: "Manage your own SEO campaign using our SEO tools"
+  yearly_content: "Get two months free on a yearly plan"
   recomended: false
   button_label : "Subscribe"
-  button_link : "#"
+  button_link : "https://dashboard.inspired.digital/register"
 
 - name: "Growth"
   currency: "$"
