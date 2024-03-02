@@ -12,8 +12,8 @@ pricing_table_info:
   currency: ""
   monthly_price: ""
   yearly_price: ""
-  monthly_content: "Save 30% On Annual Subscription"
-  yearly_content: "Save 50% On Annual Subscription"
+  monthly_content: "Get two months free on an annual subscription"
+  yearly_content: "Get two months free on an annual subscription"
   recomended: false
   button_label : ""
   button_link : ""
@@ -55,7 +55,7 @@ pricing_table_info:
   monthly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
   yearly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
   recomended: false
-  button_label : "Subscribe"
+  button_label : "Contact"
   button_link : "contact"
 
 
