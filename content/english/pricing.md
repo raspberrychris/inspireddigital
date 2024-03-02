@@ -38,6 +38,25 @@ pricing_table_info:
   button_label : "Contact"
   button_link : "contact"
 
+- name: "Business"
+  currency: "$"
+  monthly_price: "999"
+  yearly_price: ""
+  monthly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
+  yearly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
+  recomended: true
+  button_label : "Subscribe"
+  button_link : "contact"
+
+- name: "Enterprise"
+  currency: "$"
+  monthly_price: "2079"
+  yearly_price: ""
+  monthly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
+  yearly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
+  recomended: false
+  button_label : "Contact"
+  button_link : "contact"
 
 
 
