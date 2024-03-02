@@ -2,7 +2,7 @@
 title : "Java Developer"
 description : "this is meta description"
 job_type : "Full Time"
-draft : false
+draft : true
 ---
 
 ### About Copper

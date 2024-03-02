@@ -2,7 +2,7 @@
 title : "Head Design"
 description : "this is meta description"
 job_type : "Part Time"
-draft : false
+draft : true
 ---
 
 ### About Copper
