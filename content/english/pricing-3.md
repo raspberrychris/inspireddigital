@@ -4,7 +4,7 @@ description : ""
 layout : "pricing"
 offer : "Get two months free with an annual subscription"
 # you can set only monthly, only yearly, or toggle both
-monthly_yearly_toggle: "toggle" # available value "monthly"/"yearly"/"toggle"
+monthly_yearly_toggle: "monthly" # available value "monthly"/"yearly"/"toggle"
 draft : false
 
 
