@@ -22,9 +22,9 @@ pricing_table_info:
   currency: "$"
   monthly_price: "79"
   yearly_price: "790"
-  monthly_content: "Manage your own SEO campaign using our SEO tools"
+  monthly_content: "Manage your own SEO campaign using our SEO platform"
   yearly_content: "Get two months free on a yearly plan"
-  recomended: false
+  recomended: true
   button_label : "Subscribe"
   button_link : "https://dashboard.inspired.digital/register"
 
@@ -40,7 +40,7 @@ pricing_table_info:
 
 - name: "Business"
   currency: "$"
-  monthly_price: "999"
+  monthly_price: "Ask"
   yearly_price: ""
   monthly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
   yearly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
@@ -50,7 +50,7 @@ pricing_table_info:
 
 - name: "Enterprise"
   currency: "$"
-  monthly_price: "2079"
+  monthly_price: "Ask"
   yearly_price: ""
   monthly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
   yearly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
@@ -154,7 +154,7 @@ pricing_table_data:
     monthly_count: ""
     yearly_count: ""
     monthly_content: "Keyword Research"
-    yearly_content: "Keywords Research"
+    yearly_content: "Keyword Research"
     
   - name: "DIY"
     monthly_icon: ""
