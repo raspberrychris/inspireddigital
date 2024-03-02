@@ -21,13 +21,19 @@ pricing_card:
   button_link : "https://dashboard.inspired.digital/register"
   services:
   - "Track your keywords"
-  - "Google Search Console and Google Analytics integration"
-  - "SEO Reporting"
+  - "Google Search Console, Google Analytics and Google Business integration"
+  - "Create SEO Reports"
   - "Competitor Analysis"
+  - "Keyword Research"
+  - "Content Strategy"
+  - "Monitor Backlinks"
+  - "Manage your Google Business profile"
+
+
   
 # pricing table
 - name : "Business"
-  content : "Everything in DIY & 3 Hours of SEO consultation per month"
+  content : "Everything in the DIY plan plus 3 Hours of SEO consultation per month"
   currency: "$"
   monthly_price : "229"
   yearly_price : "2290"
