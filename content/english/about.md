@@ -49,7 +49,7 @@ vision:
 ############### Featured testimonial ###############
 featured_testimonial:
   enable : true
-  name : "Marsh Angela Costa"
+  name : "Marsh Costa"
   designation : "CEO, Trello"
   quote : "“Copper gives us the ease to have people hop in where they need to, to get to a customer resolution really quickly.”"
   image : "images/testimonials/01.jpg"
