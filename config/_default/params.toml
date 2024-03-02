@@ -32,7 +32,7 @@ copyright = "Copyright by your company" # also change copyright in language.toml
 
 # Preloader
 [preloader]
-enable = true
+enable = false
 preloader = "images/preloader.png" # use jpg, png, svg or gif format.
 greetings = "Welcome to"
 greetings_to = "Inspired Digital"
