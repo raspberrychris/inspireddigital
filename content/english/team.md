@@ -2,7 +2,7 @@
 title : "Team"
 description : "this is meta description"
 layout : "team"
-draft : true
+draft : false
 
 team_member:
 - name : "Angelina Jolie"

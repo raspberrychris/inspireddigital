@@ -2,7 +2,7 @@
 title : "Terms & Conditions"
 description : "this is meta description"
 layout : "regular"
-draft : true
+draft : false
 ---
 
 ### GDPR Compliance
