@@ -31,18 +31,7 @@ pricing_card:
 
 
   
-# pricing table
-- name : "Business"
-  content : "Everything in the DIY plan plus 3 Hours of SEO consultation per month"
-  currency: "$"
-  monthly_price : "229"
-  yearly_price : "2290"
-  featured : true
-  button_label : "Subscribe"
-  button_link : "#"
-  services:
-  - "Everything in the DIY plan"
-  - "3 Hours of SEO consultation"
+
   
 # pricing table
 - name : "Enterprise"
