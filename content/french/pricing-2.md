@@ -1,6 +1,6 @@
 ---
 title : "Pricing"
-description : "this is meta description"
+description : ""
 layout : "pricing-2"
 # you can set only monthly, only yearly, or toggle both
 monthly_yearly_toggle: "toggle" # available value "monthly"/"yearly"/"toggle"

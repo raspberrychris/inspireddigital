@@ -1,6 +1,6 @@
 ---
 title : "Pricing"
-description : "this is meta description"
+description : ""
 layout : "pricing-2"
 # you can set only monthly, only yearly, or toggle both
 monthly_yearly_toggle: "toggle" # available value "monthly"/"yearly"/"toggle"
@@ -18,44 +18,44 @@ pricing_table_info:
   button_label : ""
   button_link : ""
 
-- name: "Free"
+- name: "DIY"
   currency: "$"
-  monthly_price: "0"
+  monthly_price: "179"
   yearly_price: "0"
   monthly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
   yearly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
   recomended: false
-  button_label : "Free Trial"
+  button_label : "Subscribe"
   button_link : "#"
 
-- name: "Team"
+- name: "Growth"
   currency: "$"
-  monthly_price: "39"
-  yearly_price: "139"
+  monthly_price: "479"
+  yearly_price: "0"
   monthly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
   yearly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
   recomended: false
-  button_label : "Start Now"
+  button_label : "Subscribe"
   button_link : "contact"
 
 - name: "Business"
   currency: "$"
-  monthly_price: "59"
-  yearly_price: "159"
+  monthly_price: "999"
+  yearly_price: ""
   monthly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
   yearly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
   recomended: true
-  button_label : "Start Now"
+  button_label : "Subscribe"
   button_link : "contact"
 
 - name: "Enterprise"
   currency: "$"
-  monthly_price: "89"
-  yearly_price: "189"
+  monthly_price: "2079"
+  yearly_price: ""
   monthly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
   yearly_content: "Lorem ipsum dolor sit amet confsectur justo massa."
   recomended: false
-  button_label : "Start Now"
+  button_label : "Subscribe"
   button_link : "contact"
 
 
@@ -111,10 +111,10 @@ pricing_table_data:
     yearly_icon: "fas fa-info-circle text-primary"
     monthly_count: ""
     yearly_count: ""
-    monthly_content: "Monthly visits"
-    yearly_content: "Yearly visits"
+    monthly_content: "SEO Reporting"
+    yearly_content: "SEO Reporting"
     
-  - name: "Free"
+  - name: "DIY"
     monthly_icon: ""
     yearly_icon: ""
     monthly_count: "10000"
@@ -153,10 +153,10 @@ pricing_table_data:
     yearly_icon: "fas fa-info-circle text-primary"
     monthly_count: ""
     yearly_count: ""
-    monthly_content: "Collection items"
-    yearly_content: "Collection items"
+    monthly_content: "Keyword Research"
+    yearly_content: "Keywords Research"
     
-  - name: "Free"
+  - name: "DIY"
     monthly_icon: ""
     yearly_icon: ""
     monthly_count: "30000"
@@ -195,10 +195,10 @@ pricing_table_data:
     yearly_icon: "fas fa-info-circle text-primary"
     monthly_count: ""
     yearly_count: ""
-    monthly_content: "Form submissions"
-    yearly_content: "Form submissions"
+    monthly_content: "Competitor Analysis"
+    yearly_content: "Competitor Analysis"
     
-  - name: "Free"
+  - name: "DIY"
     monthly_icon: "fas fa-times"
     yearly_icon: "fas fa-times"
     monthly_count: ""
@@ -232,5 +232,6 @@ pricing_table_data:
 
 ---
 
-## Choose **Pricing**
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+## Flexible **Pricing**
+
+Choose the plan that best suits your SEO needs.
