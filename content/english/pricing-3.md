@@ -46,19 +46,17 @@ pricing_card:
   
 # pricing table
 - name : "Enterprise"
-  content : "Lorem ipsum dolor sit amet, confsectur justo. Massa augue neque proin adipisng."
+  content : "Everything in the Business plan plus a bespoke SEO campaign"
   currency: "$"
-  monthly_price : "129"
-  yearly_price : "229"
+  monthly_price : "Ask"
+  yearly_price : "Ask"
   featured : false
-  button_label : "Start Free Trial"
-  button_link : "#"
+  button_label : "Contact"
+  button_link : "contact"
   services:
-  - "Track Reward Part Program"
-  - "Design and prototype powerful"
-  - "Keep work in unlimited storage"
-  - "Add people document handoff."
+  - "Bespoke SEO campaign designed for your needs"
+  
 ---
 
-## Choose **Pricing**
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+## Browse our **Pricing Plans**
+Check out our pricing plans below.
