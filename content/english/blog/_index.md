@@ -1,7 +1,7 @@
 ---
 title : "Blog"
 description : "this is meta description"
-draft : true
+draft : false
 ---
 
 ## Find A **Source Of Knowledge**
