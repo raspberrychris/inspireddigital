@@ -1,6 +1,6 @@
 ---
 title : "About Us"
-description : "this is meta description"
+description : "About Inspired Digital"
 layout : "about"
 draft : false
 
@@ -9,18 +9,18 @@ mission:
   enable : true
   title : "Our mission is to **empower businesses With Tools**"
   image : "images/about/02.jpg"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores"
+  content : "Inspired Digital was formed in 2022. We started the company to service smaller to medium-sized local businesses and give them all the tools and resources they need to succeed in SEO. Inspired Digital is an SEO platform, but if you need it you can get access to some of the very best SEO consultancy should you need it."
   bulletpoints:
-  - "Habit building in essential steps choose habit Good Things"
-  - "Get an overview of Habit Calendars admiral general."
-  - "Start building habit with Habitify on platform to new"
+  - "Start ranking your site in search engines like Google"
+  - "Have all the tools you need to get started in SEO"
+  - "Get an overview of your SEO performance"
 
 ################## Funfacts ###############
 funfacts:
   enable : true
   funfacts_item:
   - name : "Launched in April of"
-    count : "2015"
+    count : "2022"
     extension : ""
     
   - name : "Our product powers"
@@ -55,5 +55,5 @@ featured_testimonial:
   image : "images/testimonials/01.jpg"
   video:
     enable : true
-    video_embed_link : "https://www.youtube.com/embed/dyZcRRWiuuw"
+    video_embed_link : ""
 ---
