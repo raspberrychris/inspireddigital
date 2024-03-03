@@ -58,7 +58,7 @@ mailchimp_form_name =  "b_463ee871f45d2d93748e77cad_a0a2c6d074"                 
 
 # Crisp Chat
 [crisp_chat]
-enable = false
+enable = true
 crisp_website_id = "a7188d64-d47c-41a4-b82f-fb53a2bc3562" # replace this code with yours
 # Check this video tutorial to get your crisp website ID - https://www.youtube.com/watch?v=nW5UX6iVdFc
 
