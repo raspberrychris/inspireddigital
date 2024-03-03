@@ -5,42 +5,28 @@ layout : "regular"
 draft : false
 ---
 
-### GDPR Compliance
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+# Privacy Policy for Inspired Digital
 
-We collect certain identifying personal data when you sign up to our Service such as your name, email
-address, PayPal address (if different from email address), and telephone number. The personal data we
-collect from you is disclosed only in accordance with our Terms of Service and/or this Privacy
-Policy.Conclude collects Slack account and access information from Users for the purposes of connecting to
-the Slack API and to authenticate access to information on the Conclude website. Whenever you visit our
-Site, we may collect non-identifying information from you, such as referring URL, browser, operating system,
-cookie information, and Internet Service Provider. Without a subpoena, voluntary compliance on the part of
-your Internet Service Provider, or additional records from a third party, this information alone cannot
-usually be used to identify you.The term "personal data" does not include any anonymized and aggregated data
-made on the basis of personal data, which are wholly owned by Conclude.
+## Introduction
+At Inspired Digital, protecting your private information is our priority. This Statement of Privacy applies to Inspired Digital and governs data collection and usage.
 
-### About Copper
-##### Service Provided As:
-The Service is provided for free during this pilot project, and is provided "as is" with
-no warranty. Conclude will provide User support for the Service, however; Conclude is not committed to any
-level of service or availability of the Service. A further description of the Service and our user support
-is available at the Site. contact at [hello@Copper.com](mailto:hello@Copper.com)
+## Information Collection
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
+## Use of Information
+We use the collected data for various purposes: to provide and maintain our Service, to notify you about changes to our Service, to allow you to participate in interactive features of our Service when you choose to do so.
 
-##### Company Liability:
-If you enter into this agreement on behalf of a company, you hereby agree that the company is responsible
-under this Agreement for all actions and omissions conducted by its designated users of the Service.
+## Sharing of Information
+We will not sell, rent or lease its customer lists to third parties.
 
-### When we collect personal data about you
+## Your Rights
+Whenever made possible, you can update your Personal Data directly within your account settings section.
 
-* Enhance or improve User experience, our Site, or our Service.
-* Send emails and updates about Conclude, Process transactions.
-* Send emails about our Site or respond to inquiries.
-* Including news and requests for agreement to amended legal documents such as this Privacy Policy and our Terms of Service.
+## Data Security
+We strive to use commercially acceptable means to protect your Personal Data.
 
-### Why we collect and use personal data
-Users of Conclude (i) must keep passwords secure and confidential; (ii) are solely responsible for User
-Data and all activity in their account while using the Service; (iii) must use commercially reasonable
-efforts access to their account, and notify Conclude promptly of any such unauthorized access; and (iv) may
-use the Service only in accordance with Conclude's online user guide and all applicable laws and
-regulations.
+## Changes to Policy
+You are advised to review this Privacy Policy periodically for any changes.
+
+## Contact Information
+For more information, or if you have suggestions or concerns, please reach out to us at support@Inspired Digital.com.
