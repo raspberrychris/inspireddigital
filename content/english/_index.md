@@ -8,7 +8,7 @@ banner:
     enable : false
     video_embed_link : "https://www.youtube.com/embed/dyZcRRWiuuw"
   form:
-    enable : true
+    enable : false
     form_acttion : "https://formspree.io/f/xleqbjyw"
     button_label : "Get quote"
   button:
