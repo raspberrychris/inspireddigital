@@ -36,10 +36,7 @@ services:
 - name : "Optimize Google Business"
   icon : "fas fa-paperclip"
   content : "Enhance your online presence with Inspired. Optimize your Google Business Profile easily, improve visibility, and attract more customers."
-
-- name : "Get Backlinks"
-  icon : "fas fa-paperclip"
-  content : "Get valuable, natural backlinks to your website."
+  
 ---
 
 ## Our **Services**
