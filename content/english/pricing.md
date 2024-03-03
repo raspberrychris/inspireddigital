@@ -34,7 +34,7 @@ pricing_card:
 
   
 # pricing table
-- name : "Enterprise"
+- name : "Pro"
   content : "Everything in the DIY plan plus a bespoke SEO consultation"
   currency: "$"
   monthly_price : "Ask"
