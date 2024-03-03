@@ -5,9 +5,9 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 [en.params]
-footer_content = "Everything you need to get started in SEO."
+footer_content = "Everything you need to get started in SEO"
 # copyright
-copyright = "© 2024"
+copyright = "Copyright 2024 Inspired Digital"
 
 
 
