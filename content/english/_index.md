@@ -46,7 +46,7 @@ homepage_tab:
   tablist:
   # tab item
   - name : "Tailored approach"
-    title : "Do **Tailored approach**"
+    title : "A **Tailored approach**"
     image : "images/screenshots/how-it-works-1.jpg"
     content : "Tailored Approach: We take the time to understand your unique business goals and create a customized SEO strategy that aligns with your objectives and target audience."
     button:
