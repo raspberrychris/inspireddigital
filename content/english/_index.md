@@ -40,50 +40,50 @@ clients_logo_slider:
 
 ########################## How it works #########################
 homepage_tab:
-  enable : false
-  title : "What **we do**"
-  content : "We provide an affordable SEO platform that allows you to take control of your organic rankings and we're also there to help if you need us."
+  enable : true
+  title : "Why Inspired Digital is Your **Best Choice**"
+  content : "Are you tired of seeing your competitors outrank you on search engines? At Inspired Digital, we specialize in providing high-quality, affordable SEO services that deliver results. Our team of SEO specialists is committed to helping businesses of all sizes thrive online without overspending."
   tablist:
   # tab item
-  - name : "Do Keyword Research"
-    title : "Do **Keyword Research**"
+  - name : "Tailored approach"
+    title : "Do **Tailored approach**"
     image : "images/screenshots/how-it-works-1.jpg"
-    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
+    content : "Tailored Approach: We take the time to understand your unique business goals and create a customized SEO strategy that aligns with your objectives and target audience."
     button:
-      enable : false
-      label : "View More"
-      link : "how-it-works"
+      enable : true
+      label : "Learn More"
+      link : "services"
       
   # tab item
-  - name : "Built In Chat"
-    title : "Built In **Chat**"
+  - name : "Proven expertise"
+    title : "Proven **expertise**"
     image : "images/screenshots/03.png"
-    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
+    content : "Proven Expertise: With years of experience and a portfolio of satisfied clients, we have the knowledge and skills to drive your website to the top of search engine results."
     button:
-      enable : false
-      label : "View More"
-      link : "how-it-works"
+      enable : true
+      label : "Learn More"
+      link : "services"
       
   # tab item
-  - name : "Project Analytics"
-    title : "Project **Analytics**"
+  - name : "Comprehensive Solutions"
+    title : "Comprehensive **Solutions**"
     image : "images/screenshots/04.png"
-    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
+    content : "Our wide range of SEO services covers all aspects of search engine optimization, ensuring that your website is fully optimized for maximum visibility and traffic."
     button:
-      enable : false
-      label : "View More"
-      link : "how-it-works"
+      enable : true
+      label : "Learn More"
+      link : "services"
       
   # tab item
-  - name : "Task Collaboration"
-    title : "Task **Collaboration**"
+  - name : "Transparent and Accountable"
+    title : "Transparent and **Accountable**"
     image : "images/screenshots/how-it-works-1.jpg"
-    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores et ea rebum satet"
-    button:
-      enable : false
-      label : "View More"
-      link : "how-it-works"
+    content : "We keep you informed every step of the way, providing regular reports and insights into your SEO campaign's performance and progress."
 
+    button:
+      enable : true
+      label : "Learn More"
+      link : "services"
 
 ############################## Tools in Use ########################
 tools:

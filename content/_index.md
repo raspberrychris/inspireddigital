@@ -51,7 +51,7 @@ homepage_tab:
     button:
       enable : true
       label : "Learn More"
-      link : "how-it-works"
+      link : "services"
       
   # tab item
   - name : "Proven expertise"
