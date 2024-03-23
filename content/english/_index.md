@@ -87,19 +87,16 @@ homepage_tab:
 
 ############################## Tools in Use ########################
 tools:
-  enable : false
-  title : "Integrate the **tools you already use**"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed."
+  enable : true
+  title : "Works with many different **platforms**"
+  content : "We support all of the platforms below and more"
   logos:
-  - "images/tools/01.png"
-  - "images/tools/02.png"
-  - "images/tools/03.png"
-  - "images/tools/04.png"
-  - "images/tools/05.png"
-  - "images/tools/06.png"
-  - "images/tools/07.png"
-  - "images/tools/08.png"
-  - "images/tools/05.png"
+  - "images/tools/magento.webp"
+  - "images/tools/wordpress.webp"
+  - "images/tools/shopify.webp"
+  - "images/tools/squarespace.webp"
+  - "images/tools/wix.webp"
+
 
   
 
@@ -145,14 +142,14 @@ workflow:
 
 ############################## about us ################################
 about_us:
-  enable : false
-  title : "Who Are We And **What Is Our Identity?**"
+  enable : true
+  title : "Love it or **get your money back**"
   image : "images/about/01.jpg"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed. At vero eos et accusam et justo duo dolores"
+  content : "We're so confident that you'll love our services that if within 14 days you are not happy we'll give you your money back."
   bulletpoints:
-    - "Habit building in essential steps choose habit Good Things"
-    - "Get an overview of Habit Calendars admiral general."
-    - "Start building habit with Habitify on platform to new"
+    - "✅ 14 day money back guarantee"
+    - "✅ Cancel at any time"
+    
 
     
 
