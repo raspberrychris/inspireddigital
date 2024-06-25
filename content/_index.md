@@ -1,7 +1,7 @@
 ############################ Banner ##################################
 banner:
   enable : true
-  title : "Want to do SEO? <P> **Get Inspired** 📈"
+  title : "Do you need SEO Services? <P> **Get Inspired** 📈"
   image : "images/screenshots/banner-shot.png"
   video:
     enable : false
