@@ -17,13 +17,13 @@
   translation: Your Name
   
 - id: mail
-  translation: Working Mail
+  translation: Email
   
 - id: website
-  translation: Your Website
+  translation: Website
   
 - id: message
-  translation: Monthy budget?
+  translation: What's your approximate monthy budget for SEO?
   
 - id: submit
   translation: Submit Now
