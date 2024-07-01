@@ -11,7 +11,7 @@ contact_info:
   title : "Our Contact Info"
   address_list:
   - "support@inspired.digital"
-  - ""
+  - "Inspired Digital Ltd. HCC, Westcott Crescent, London, W7 1PD"
   - ""
 
 ############ Services ############
