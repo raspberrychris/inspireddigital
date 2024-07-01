@@ -144,12 +144,3 @@ link = "#"
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "#"
-
-
-########################## Clients Logo Slider #########################
-clients_logo_slider:
-  enable = true
-  logos:
-  - "images/emirates-logo.png"
-  - "images/vodafone-logo.png"
-  - "images/brands/asda-logo.png"  
