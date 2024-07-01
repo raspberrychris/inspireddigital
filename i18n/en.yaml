@@ -20,10 +20,10 @@
   translation: Working Mail
   
 - id: website
-  translation: Company Website
+  translation: Your Website
   
 - id: message
-  translation: Anything else?
+  translation: Monthy budget?
   
 - id: submit
   translation: Submit Now
