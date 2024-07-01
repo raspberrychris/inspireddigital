@@ -2,17 +2,17 @@
 ############################ Banner ##################################
 banner:
   enable : true
-  title : "Want to do SEO? <P> **Get Inspired** 📈"
+  title : "Are you looking for SEO services? <P> **Get Inspired** 📈"
   image : "images/screenshots/banner2.png"
   video:
     enable : false
     video_embed_link : "https://www.youtube.com/embed/dyZcRRWiuuw"
   form:
-    enable : false
+    enable : true
     form_acttion : "https://formspree.io/f/xleqbjyw"
     button_label : "Get quote"
   button:
-    enable : true
+    enable : false
     icon : "#"
     label : "Sign Up 🚀"
     link : "https://dashboard.inspired.digital/register"
@@ -22,11 +22,11 @@ banner:
 
 ########################## Clients Logo Slider #########################
 clients_logo_slider:
-  enable : false
+  enable : true
   logos:
-  - "images/brands/01-colored.png"
-  - "images/brands/02-colored.png"
-  - "images/brands/03-colored.png"
+  - "images/brands/asda-logo.png"
+  - "images/brands/emirates-logo.png"
+  - "images/brands/vodafone-logo.png"
   - "images/brands/04-colored.png"
   - "images/brands/05-colored.png"
   - "images/brands/06-colored.png"
@@ -42,7 +42,7 @@ clients_logo_slider:
 homepage_tab:
   enable : true
   title : "Why Inspired Digital is Your **Best Choice**"
-  content : "Are you tired of seeing your competitors outrank you on search engines? At Inspired Digital, we specialize in providing high-quality, affordable SEO services that deliver results. Our team of SEO specialists is committed to helping businesses of all sizes thrive online without overspending."
+  content : "Are you tired of seeing your competitors outrank you on Google? At Inspired Digital, we specialize in providing high-quality SEO services that deliver results. Our team of SEO specialists is committed to helping businesses of all sizes grow their business online."
   tablist:
   # tab item
   - name : "Tailored approach"
