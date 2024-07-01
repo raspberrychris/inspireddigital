@@ -148,7 +148,7 @@ link = "#"
 
 ########################## Clients Logo Slider #########################
 clients_logo_slider:
-  enable : true
+  enable = true
   logos:
   - "images/emirates-logo.png"
   - "images/vodafone-logo.png"
