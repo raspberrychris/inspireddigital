@@ -9,7 +9,7 @@ banner:
     video_embed_link : "https://www.youtube.com/embed/dyZcRRWiuuw"
   form:
     enable : true
-    form_acttion : "https://formspree.io/f/movavvyn"
+    form_acttion : "https://inspired.digital/contact"
     button_label : "Get quote"
   button:
     enable : false
