@@ -87,7 +87,7 @@ homepage_tab:
 
 ############################## Tools in Use ########################
 tools:
-  enable : true
+  enable : false
   title : "Works with many different **platforms**"
   content : "We support all of the platforms below and more"
   logos:
