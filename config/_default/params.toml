@@ -40,14 +40,14 @@ greetings_to = "Inspired Digital"
 # Navigation button
 [navigation_button_bordered]
 enable = true
-label = "Sign Up"
-link = "https://dashboard.inspired.digital/register"
+label = "Get a Quote"
+link = "https://inspired.digital/contact"
 
 # Navigation button
 [navigation_button_linked]
-enable = true
-label = "Log In"
-link = "https://dashboard.inspired.digital"
+enable = false
+label = ""
+link = ""
 
 # Subscription
 [subscription]
@@ -111,8 +111,8 @@ enable = true
 title = "Join growing businesses That **Use Inspired**"
 [footer_cta_button]
 enable = true
-label = "Get Started"
-link = "https://dashboard.inspired.digital/register"
+label = "Get a Quote"
+link = "https://inspired.digital/contact"
 
 # site verifications
 [site_verification]
