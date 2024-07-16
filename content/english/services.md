@@ -1,43 +1,41 @@
 ---
-title : "Services"
-description : "Browse Inspired Digital SEO services"
+title : "SEO Services"
+description : "Browse Inspired Digital's SEO services."
 layout : "services"
 draft : false
 
 services:
-- name : "Track Keyword Rankings"
-  icon : "fas fa-paperclip"
-  content : "Track your website's rankings in real-time with Inspired. Gain insights, analyze competitors, and optimize your strategy."
 
-- name : "Track Backlinks"
+- name : "SEO Audit"
   icon : "fas fa-bell"
-  content : "Easily monitor your backlinks with Inspired. Stay updated, analyze link profiles, and enhance your SEO strategy."
-  
-- name : "Do Keyword Research"
+  content : "Most of our clients start off with an SEO audit of their site. It's one of the best ways to understand the SEO issues facing your website."
+
+- name : "Keyword Research"
   icon : "fas fa-clipboard"
-  content : "Unlock the power of keyword research with Inspired. Discover high-value keywords, analyze trends, and refine your SEO strategy."
+  content : "Unlock the power of keyword research. Discover high-value keywords, analyze trends, and refine your SEO strategy."
   
-- name : "Do Competitor Research"
+- name : "SEO Competitor Research"
   icon : "fas fa-bell"
   content : "Elevate your strategy with competitor research using Inspired. Gain insights, analyze tactics, and stay ahead of the competition."
   
-- name : "Create SEO reports"
+- name : "Technical SEO"
   icon : "fas fa-clipboard"
-  content : "Gain valuable insights with SEO reports from Inspired. Access comprehensive data, track performance, and refine your strategy."
+  content : "Need to improve your technical SEO, but don't know how? Let us analyze your site for technical SEO issues, that may be impacting your website's performance."
   
-- name : "Order Content"
+- name : "SEO Optimized Content"
   icon : "fas fa-paperclip"
-  content : "Streamline content creation with Inspired. Order high-quality, SEO-optimized content through our platform."
+  content : "Streamline your content creation with Inspired. Order high-quality, SEO-optimized content."
 
-- name : "24/7 Support"
+- name : "Link Building"
   icon : "fas fa-paperclip"
-  content : "24/7 Chat Support to help you get the most out of the platform"
+  content : "Acquiring high quality links is important for SEO. Need help? Let us do the hard work."
 
-- name : "Optimize Google Business"
+- name : "SEO Reporting"
   icon : "fas fa-paperclip"
-  content : "Enhance your online presence with Inspired. Optimize your Google Business Profile easily, improve visibility, and attract more customers."
-  
+  content : "Keep track your website's rankings with Inspired. Gain insights, analyze competitors, and optimize your strategy."
+
+
 ---
 
-## Our **Services**
-Our SEO platform does it all, and if you get stuck, we're here to help.
+## Our **SEO Services**
+Everything you need to get your website ranking in Google.

@@ -23,16 +23,11 @@ weight = 6
 
 # Footer menu
 [[footer]]
-name = "FAQs"
-url = "faq/"
-weight = 1
-
-[[footer]]
 name = "Terms & Conditions"
 url = "terms-conditions/"
-weight = 2
+weight = 1
 
 [[footer]]
 name = "Privacy Policy"
 url = "privacy-policy/"
-weight = 3
+weight = 2
