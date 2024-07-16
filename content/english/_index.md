@@ -18,8 +18,6 @@ banner:
     link : "https://dashboard.inspired.digital/register"
     content : "Do your own SEO with our tools, but get expert SEO advice if you need it. Track keywords, backlinks, research your competitors, create SEO reports, do keyword research, order content and more..."
 
-
-
 ########################## Clients Logo Slider #########################
 clients_logo_slider:
   enable : true

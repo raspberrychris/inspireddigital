@@ -1,46 +1,52 @@
 ---
 title : "Terms & Conditions"
-description : "this is meta description"
+description : "Inspired Digital's terms and conditions"
 layout : "regular"
 draft : false
 ---
 
-### GDPR Compliance
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.
+**Terms and Conditions**
 
-We collect certain identifying personal data when you sign up to our Service such as your name, email
-address, PayPal address (if different from email address), and telephone number. The personal data we
-collect from you is disclosed only in accordance with our Terms of Service and/or this Privacy
-Policy.Conclude collects Slack account and access information from Users for the purposes of connecting to
-the Slack API and to authenticate access to information on the Conclude website. Whenever you visit our
-Site, we may collect non-identifying information from you, such as referring URL, browser, operating system,
-cookie information, and Internet Service Provider. Without a subpoena, voluntary compliance on the part of
-your Internet Service Provider, or additional records from a third party, this information alone cannot
-usually be used to identify you.The term "personal data" does not include any anonymized and aggregated data
-made on the basis of personal data, which are wholly owned by Conclude.
+**Last updated: July, 2024**
 
-### About Copper
-##### Service Provided As:
-The Service is provided for free during this pilot project, and is provided "as is" with
-no warranty. Conclude will provide User support for the Service, however; Conclude is not committed to any
-level of service or availability of the Service. A further description of the Service and our user support
-is available at the Site. contact at [hello@Copper.com](mailto:hello@Copper.com)
+Welcome to Inspired Digital (https://inspired.digital). By accessing and using our website, you agree to comply with and be bound by the following terms and conditions. Please review these terms carefully. If you do not agree with these terms, you should not use our website.
 
+**1. Acceptance of Terms**
 
-##### Company Liability:
-If you enter into this agreement on behalf of a company, you hereby agree that the company is responsible
-under this Agreement for all actions and omissions conducted by its designated users of the Service.
+By accessing and using the Inspired Digital website, you accept and agree to be bound by these terms and conditions. These terms apply to all visitors, users, and others who access or use the website.
 
-### When we collect personal data about you
+**2. Changes to Terms**
 
-* Enhance or improve User experience, our Site, or our Service.
-* Send emails and updates about Conclude, Process transactions.
-* Send emails about our Site or respond to inquiries.
-* Including news and requests for agreement to amended legal documents such as this Privacy Policy and our Terms of Service.
+We reserve the right to modify or replace these terms at any time. We will provide notice of changes by posting the new terms on the website. Your continued use of the website after any changes constitutes your acceptance of the new terms.
 
-### Why we collect and use personal data
-Users of Conclude (i) must keep passwords secure and confidential; (ii) are solely responsible for User
-Data and all activity in their account while using the Service; (iii) must use commercially reasonable
-efforts access to their account, and notify Conclude promptly of any such unauthorized access; and (iv) may
-use the Service only in accordance with Conclude's online user guide and all applicable laws and
-regulations.
+**3. Privacy Policy**
+
+Your use of the website is also subject to our Privacy Policy. Please review our Privacy Policy, which governs the website and informs users of our data collection practices.
+
+**4. Use of the Website**
+
+You agree to use the website only for lawful purposes and in a way that does not infringe the rights of, restrict, or inhibit anyone else's use and enjoyment of the website. Prohibited behavior includes harassing or causing distress or inconvenience to any other user, transmitting obscene or offensive content, or disrupting the normal flow of dialogue within the website.
+
+**5. Intellectual Property**
+
+All content on the website, including but not limited to text, graphics, logos, and software, is the property of Inspired Digital or its content suppliers and is protected by copyright and other intellectual property laws. You may not reproduce, distribute, or create derivative works from any content without our express written permission.
+
+**6. Links to Other Websites**
+
+Our website may contain links to third-party websites or services that are not owned or controlled by Inspired Digital. We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third-party websites or services. You acknowledge and agree that Inspired Digital is not responsible or liable for any damage or loss caused by or in connection with the use of or reliance on any such content, goods, or services available on or through any such websites or services.
+
+**7. Disclaimer of Warranties**
+
+The website is provided on an "AS IS" and "AS AVAILABLE" basis. We make no warranties, expressed or implied, and hereby disclaim and negate all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, we do not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on our website or otherwise relating to such materials or on any sites linked to this site.
+
+**8. Limitation of Liability**
+
+In no event shall Inspired Digital, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential, or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your use or inability to use the website; (ii) any unauthorized access to or use of our servers and/or any personal information stored therein; (iii) any interruption or cessation of transmission to or from the website; (iv) any bugs, viruses, trojan horses, or the like that may be transmitted to or through our website by any third party; (v) any errors or omissions in any content or for any loss or damage incurred as a result of your use of any content posted, emailed, transmitted, or otherwise made available through the website; and/or (vi) any other matter relating to the website.
+
+**9. Governing Law**
+
+These terms shall be governed and construed in accordance with the laws of the United Kingdom, without regard to its conflict of law provisions. Our failure to enforce any right or provision of these terms will not be considered a waiver of those rights. If any provision of these terms is held to be invalid or unenforceable by a court, the remaining provisions of these terms will remain in effect. These terms constitute the entire agreement between us regarding our website and supersede and replace any prior agreements we might have had between us regarding the website.
+
+**10. Contact Us**
+
+If you have any questions about these terms, please contact us at: support@inspired.digital
