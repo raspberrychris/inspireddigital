@@ -2,7 +2,7 @@
 ############################ Banner ##################################
 banner:
   enable : true
-  title : "Do you need SEO Services? <P> **Get Inspired** 📈"
+  title : "Do you need <a href=https://inspired.digital/services>SEO Services?</a> <P> **Get Inspired** 📈"
   image : "images/screenshots/banner-shot.png"
   video:
     enable : false
@@ -178,4 +178,4 @@ testimonial:
     designation : "CEO, Angular Corporation"
     content : "Lorem ipsum dolor sit amet, kasd gubergren, seatakimata dolores et rebum stetclita"
 
----
+---[0]: https://inspired.digital/services/
